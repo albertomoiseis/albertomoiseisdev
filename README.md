@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 
 ## Alberto Moiseis :neckbeard:
 
-<img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/> 
-
-
 ### Seja Bem Vindo ao meu Perfil
 
 ### Minhas Habilidades:
