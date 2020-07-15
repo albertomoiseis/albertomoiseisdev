@@ -15,9 +15,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hey,
+## Hey,
 
-# ALBERTO MOISEIS
-# Seja Bem Vindo ao Meu Perfil 
+## ALBERTO MOISEIS :neckbeard:
+### SEJA BEM VINDO AO MEU PERFIL 
 
-### Minhas Habilidades:
+:shipit: ### MINHAS HABILIDADES:
+- WEBDESING -> TIPOGRAFIA, UI DESING;
+- HTML5;
+- CSS3 -> FLEXBOX, GRID, SASS, BOOTSTRAP;
+- JAVASCRIPT -> JQUERY;
+- GIT;
+
+### TECNOLOGIAS QUE ESTOU ESTUDANDO?
+- REACT.JS;
+- NODE.JS + EXPRESS;
+
+
