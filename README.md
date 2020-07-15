@@ -19,9 +19,12 @@ Here are some ideas to get you started:
 
 ## Alberto Moiseis :neckbeard:
 
+![](https://www.linkedin.com/feed/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BFpKY11BmRDyOISFFMgLiIQ%3D%3D)[LinkedIn](https://www.linkedin.com/in/alberto-moiseis/)
+
 ### Seja Bem Vindo ao meu Perfil
 
->:shipit: Minhas Habilidades:
+### Minhas Habilidades:
+
   >- Web Desing -> Tipografia, UI Desing;
   >- Html5;
   >- Css3 -> FlexBox, Grid, Sass, BootsTrap;
