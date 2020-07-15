@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Alberto Moiseis :neckbeard:
 
-![LinkedIn](https://image.flaticon.com/icons/png/16/124/124011.png)[LinkedIn](https://www.linkedin.com/in/alberto-moiseis/) <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/> 
+<img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/> 
 
 
 ### Seja Bem Vindo ao meu Perfil
