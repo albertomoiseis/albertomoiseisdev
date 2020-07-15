@@ -17,18 +17,20 @@ Here are some ideas to get you started:
 -->
 ## Hey,
 
-## ALBERTO MOISEIS :neckbeard:
-### SEJA BEM VINDO AO MEU PERFIL 
+## Alberto Moiseis :neckbeard:
 
-:shipit: ### MINHAS HABILIDADES:
-- WEBDESING -> TIPOGRAFIA, UI DESING;
-- HTML5;
-- CSS3 -> FLEXBOX, GRID, SASS, BOOTSTRAP;
-- JAVASCRIPT -> JQUERY;
-- GIT;
+### Seja Bem Vindo ao meu Perfil
+
+>:shipit: Minhas Habilidades:
+  >- Web Desing -> Tipografia, UI Desing;
+  >- Html5;
+  >- Css3 -> FlexBox, Grid, Sass, BootsTrap;
+  >- Javascript -> Jquery;
+  >- Git;
+
 
 ### TECNOLOGIAS QUE ESTOU ESTUDANDO?
-- REACT.JS;
-- NODE.JS + EXPRESS;
+ >- React.js;
+ >- Node.js + Express;
 
 
