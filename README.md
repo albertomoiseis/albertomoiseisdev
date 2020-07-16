@@ -22,16 +22,14 @@ Here are some ideas to get you started:
 ### Seja Bem Vindo ao meu Perfil
 
 ### Minhas Habilidades:
-
-  >- Web Desing -> Tipografia, UI Desing;
-  >- Html5;
-  >- Css3 -> FlexBox, Grid, Sass, BootsTrap;
-  >- Javascript -> Jquery;
-  >- Git;
-
+ ![ForTheBadge LinkedIN-badges](https://forthebadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com) **|**
+ ![ForTheBadge LinkedIN-badges](ttps://forthebadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com) **|**
+ ![ForTheBadge LinkedIN-badges](https://forthebadge.com/images/badges/uses-git.svg)](http://ForTheBadge.com) **|**
+ ![ForTheBadge LinkedIN-badges]( https://forthebadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com) **|**
+ [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
 
 ### TECNOLOGIAS QUE ESTOU ESTUDANDO?
  >- React.js;
  >- Node.js + Express;
 
-
+https://lh3.googleusercontent.com/proxy/fajb2tE672ukalsrC8uANa6IeglxdZLs_HSAK1TlSDkbVtaRzxeTENihudGtDsXv22TcjBq0EAXm-nqE6R1xA54ouApIubYMVAwbeZLUevLnB0T9WlO0VBNZIo1rwkT2SQ
