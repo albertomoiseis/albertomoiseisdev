@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 ### Seja Bem Vindo ao meu Perfil
 
 ### Minhas Habilidades:
- ![ForTheBadge LinkedIN-badges](https://forthebadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com) **|**
- ![ForTheBadge LinkedIN-badges](ttps://forthebadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com) **|**
- ![ForTheBadge LinkedIN-badges](https://forthebadge.com/images/badges/uses-git.svg)](http://ForTheBadge.com) **|**
- ![ForTheBadge LinkedIN-badges]( https://forthebadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com) **|**
- [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
+ ![ForTheBadge LinkedIN-badges](https://forthebadge.com/images/badges/uses-html.svg) **|**
+ ![ForTheBadge LinkedIN-badges](ttps://forthebadge.com/images/badges/uses-css.svg)**|**
+ ![ForTheBadge LinkedIN-badges](https://forthebadge.com/images/badges/uses-git.svg)**|**
+ ![ForTheBadge LinkedIN-badges]( https://forthebadge.com/images/badges/uses-js.svg)**|**
+ [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)]**|**
 
 ### TECNOLOGIAS QUE ESTOU ESTUDANDO?
  >- React.js;
