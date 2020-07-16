@@ -18,9 +18,12 @@ Here are some ideas to get you started:
 ## Hey,
 
 ## Alberto Moiseis 
-[![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com)
+
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-purple?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.facebook.com/albertomoiseis.dev)](https://www.facebook.com/albertomoiseis.dev)
+[![LinkedIn Badge](https://img.shields.io/badge/-FaceBook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.linkedin.com/in/alberto-moiseis/)](https://www.linkedin.com/in/alberto-moiseis/)
+
 ### Seja Bem Vindo ao meu Perfil
-LinkedIn -> 👔
+
 
 ### 🎯 Minhas Habilidades:
 
@@ -42,11 +45,3 @@ LinkedIn -> 👔
  >- SOLID;
  >- DRY + KISS+ YAGNI;
 
-
-
-
-
-
-
-
-https://lh3.googleusercontent.com/proxy/fajb2tE672ukalsrC8uANa6IeglxdZLs_HSAK1TlSDkbVtaRzxeTENihudGtDsXv22TcjBq0EAXm-nqE6R1xA54ouApIubYMVAwbeZLUevLnB0T9WlO0VBNZIo1rwkT2SQ
