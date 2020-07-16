@@ -17,19 +17,36 @@ Here are some ideas to get you started:
 -->
 ## Hey,
 
-## Alberto Moiseis :neckbeard:
-
+## Alberto Moiseis 
+[![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com)
 ### Seja Bem Vindo ao meu Perfil
+LinkedIn -> 👔
 
-### Minhas Habilidades:
- ![ForTheBadge LinkedIN-badges](https://forthebadge.com/images/badges/uses-html.svg) **|**
- ![ForTheBadge LinkedIN-badges](ttps://forthebadge.com/images/badges/uses-css.svg)**|**
- ![ForTheBadge LinkedIN-badges](https://forthebadge.com/images/badges/uses-git.svg)**|**
- ![ForTheBadge LinkedIN-badges]( https://forthebadge.com/images/badges/uses-js.svg)**|**
- [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)]**|**
+### 🎯 Minhas Habilidades:
 
-### TECNOLOGIAS QUE ESTOU ESTUDANDO?
- >- React.js;
+ >- Html5;
+ >- Css3 -> FlexBox, Grid, BootsTrap, Sass;
+ >- Javascript -> Jquery;
+ >- Git; 
+
+### 🚀 Tecnologias que estou estudando:
+
+ >- React.js + Hooks + Redux;
+ >- Typescript;
  >- Node.js + Express;
+ 
+### 🛸 Conteúdos Avançados que estou estudando:
+
+ >- Design Patterns;
+ >- Clean Architecture;
+ >- SOLID;
+ >- DRY + KISS+ YAGNI;
+
+
+
+
+
+
+
 
 https://lh3.googleusercontent.com/proxy/fajb2tE672ukalsrC8uANa6IeglxdZLs_HSAK1TlSDkbVtaRzxeTENihudGtDsXv22TcjBq0EAXm-nqE6R1xA54ouApIubYMVAwbeZLUevLnB0T9WlO0VBNZIo1rwkT2SQ
