@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 ## Alberto Moiseis 
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-purple?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.facebook.com/albertomoiseis.dev)](https://www.facebook.com/albertomoiseis.dev)
-[![LinkedIn Badge](https://img.shields.io/badge/-FaceBook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.linkedin.com/in/alberto-moiseis/)](https://www.linkedin.com/in/alberto-moiseis/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-purple?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alberto-moiseis/)](https://www.linkedin.com/in/alberto-moiseis/)
+[![LinkedIn Badge](https://img.shields.io/badge/-FaceBook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://https://www.facebook.com/albertomoiseis.dev)](https://www.facebook.com/albertomoiseis.dev)
 
 ### Seja Bem Vindo ao meu Perfil
 
