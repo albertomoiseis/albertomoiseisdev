@@ -15,34 +15,50 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hey,
-## Alberto Moiseis 
+<h2 align="left">
+ <abc>
+  <br>Alberto Moiseis<br>
+  <br>Desenvolvedor Front End <br>
+ </abc>
+</h2> 
+<h4 align="left">
+ <abc>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"><br>
+  Estou focado em aprender a stack javascript, me especializar na linguagem JS e seus frameworks, tenho ambição de ser fullstack.
+ </abc>
+</h4> 
 
+### Redes Sociais: 
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-purple?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alberto-moiseis/)](https://www.linkedin.com/in/alberto-moiseis/)
-[![LinkedIn Badge](https://img.shields.io/badge/-FaceBook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://https://www.facebook.com/albertomoiseis.dev)](https://www.facebook.com/albertomoiseis.dev)
+[![Linkedin Badge](https://img.shields.io/badge/-albertomoiseis-3b5998?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alberto-moiseis/)](https://www.linkedin.com/in/alberto-moiseis/) 
+[![Facebook Badge](https://img.shields.io/badge/-albertomoiseis-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/albertomoiseis.dev)](https://www.facebook.com/albertomoiseis.dev)
 
-### Seja Bem Vindo ao meu Perfil
+## 🚀 Sempre em constante aprendizado!
+### 🚀 Cursos:
 
-![meuperfil](https://image.freepik.com/fotos-gratis/lindo-cao-surpreendido-deitado-no-chao_23-2148181634.jpg)
+- Origamid;<br>
+- Udemy:<br>
+ - ReactJS, Hooks, TDD, Clean Architecture, SOLID e Patterns;<br>
+ - NodeJs, Typescript, TDD, Clean Architecture e SOLID;<br>
+ - React Avançado: Crie aplicações com NextJS, Strapi, GraphQL e ++;<br>
 
-### 🎯 Minhas Habilidades:
+### 🎯 Tecnologias / Frameworks que estou Estudando:
 
- >- Html5;
- >- Css3 -> FlexBox, Grid, BootsTrap, Sass;
- >- Javascript -> Jquery;
- >- Git; 
+- HTML5;<br>
+- CSS3 / FlexBox / Grid / Bootstrap / Sass -> Aprendendo;<br>
+- JavaScript;<br>
+- React JS -> Aprendendo;<br>
+- Git;<br>
+- Github;<br>
+- Figma;<br>
+- UI -> Curioso;<br>
+- Scrum -> Aprendendo;<br>
 
-### 🚀 Tecnologias que estou estudando:
+### 🛸 Conteúdos que desejo conhecer e me especializar:
 
- >- React.js + Hooks + Redux;
- >- Typescript;
- >- Node.js + Express;
- 
-### 🛸 Conteúdos Avançados que estou estudando:
-
- >- Design Patterns;
- >- Clean Architecture;
- >- SOLID;
- >- DRY + KISS+ YAGNI;
+- Clean Architecture;<br>
+- Design Patterns;<br>
+- SOLID;<br>
+- TDD;<br>
+- Node JS; <br>
 
