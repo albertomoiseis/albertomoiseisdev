@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="left">
+# Alberto Moiseis
+<h3 align="left">
  <abc>
-  <br><h1>Alberto Moiseis</h1><br>
-  <br>Desenvolvedor Front End <br>
+  Desenvolvedor Front End - Stack JS* 
  </abc>
-</h2> 
+</h3> 
 <h4 align="left">
  <abc>
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"><br>
