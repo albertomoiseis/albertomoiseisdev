@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <h4 align="left">
  <abc>
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"><br>
-  Estou focado em aprender a stack javascript, me especializar na linguagem JS e seus frameworks, tenho ambição de ser fullstack.
+  Estou focado em aprender a stack javascript, me especializar na linguagem e seus frameworks, tenho ambição de ser fullstack.
  </abc>
 </h4> 
 
