@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 
 - Origamid;<br>
 - Udemy:<br>
- - ReactJS, Hooks, TDD, Clean Architecture, SOLID e Patterns;<br>
- - NodeJs, Typescript, TDD, Clean Architecture e SOLID;<br>
- - React Avançado: Crie aplicações com NextJS, Strapi, GraphQL e ++;<br>
+ -- ReactJS, Hooks, TDD, Clean Architecture, SOLID e Patterns;<br>
+ -- NodeJs, Typescript, TDD, Clean Architecture e SOLID;<br>
+ -- React Avançado: Crie aplicações com NextJS, Strapi, GraphQL e ++;<br>
 
 ### 🎯 Tecnologias / Frameworks que estou Estudando:
 
